@@ -93,11 +93,16 @@ public class KeyBoard implements KeyListener{
             }
         }
 
+        if (telaFinal != null && cena == null) {
+            if (e.getKeyCode() == KeyEvent.VK_BACK_SPACE) {
+                System.exit(0);
+            }
+        }
+
         if (e.getKeyCode() == KeyEvent.VK_ESCAPE) {// Esc
             renderer.toggleFullscreen(); // Troca entre fullscreen e janela
         }
     }
-
 
     @Override
     public void keyReleased(KeyEvent e) { }
