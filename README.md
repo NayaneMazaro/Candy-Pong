@@ -13,7 +13,7 @@ Instale o arquivo "CandyPong.jar" e execute.
 * ESC para sair e entrar no modo fullscreen.
 * C para conhecer a criadora do jogo.
 
-## Captura de tela do jogo:
+## Capturas de tela do jogo:
 ### Regras do jogo:
 ![TI-Regras_do_Jogo](https://github.com/NayaneMazaro/Candy-Pong/assets/90645768/157255ac-7408-46c4-b754-d70d2cc6aa12)
 
