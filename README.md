@@ -4,7 +4,7 @@ Recriação do famoso jogo Pong. Implementado na linguagem de programação Java
 ## Como jogar:
 Instale o arquivo "CandyPong.jar" e execute.
 
-## Controles
+## Controles:
 * ESPAÇO para iniciar o jogo.
 * -> ou D para mover para a DIREITA.
 * <- ou A para mover para a ESQUERDA.
