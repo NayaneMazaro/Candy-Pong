@@ -81,9 +81,9 @@ public class TelaInicial implements GLEventListener {
                 Comandos:
                 
                  Espaço - Jogar
-                (->) ou A -  Move a barra para a Direita
+                (->) ou D -  Move a barra para a Direita
                 
-                (<-) ou D -  Move o jogador para Esquerda
+                (<-) ou A -  Move o jogador para Esquerda
                 
                 Tecla "P" -  Pausa o Jogo
                 
